@@ -1,4 +1,4 @@
-Dicee Game
+Dicee:A Simple Dice Game
 This is a simple web-based dice game where two players roll dice upon refreshing the page, and the player with the higher dice roll wins.
 
 Table of Contents
